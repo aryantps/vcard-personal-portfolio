@@ -1,0 +1,306 @@
+{
+    "name" : "John Wick",
+    "title" : "Developer",
+    "logoURL" : "/images/logo.ico",
+    "avatarURL" : "/images/avatar-1.png",
+    "email" : "user@example.com",
+    "phone" : "+91-12345678",
+    "birthday" : "Jan 1, 2001",
+    "address" : "Gotham",
+    "facebookURL" : "#",
+    "twitterURL" : "#",
+    "instagramURL" : "#",
+    "aboutMePart1" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequa",
+    "aboutMePart2" : "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "navLinks": {
+      "about": "About",
+      "resume": "Resume",
+      "portfolio": "Portfolio",
+      "blog": "Blog",
+      "contact": "Contact"
+    },
+    "services": [
+      {
+        "title": "Web design",
+        "description": "The most modern and high-quality design made at a professional level.",
+        "icon": "/images/icon-design.svg"
+      },
+      {
+        "title": "Web development",
+        "description": "High-quality development of sites at the professional level.",
+        "icon": "/images/icon-dev.svg"
+      },
+      {
+        "title": "Mobile apps",
+        "description": "Professional development of applications for iOS and Android.",
+        "icon": "/images/icon-app.svg"
+      },
+      {
+        "title": "Photography",
+        "description": "I make high-quality photos of any category at a professional level.",
+        "icon": "/images/icon-photo.svg"
+      }
+    ],
+
+    "testimonials": [
+      {
+        "name": "Daniel Lewis",
+        "avatar": "/images/avatar-1.png",
+        "date": "2021-06-14",
+        "formattedDate": "14 June, 2021",
+        "quote": "Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia."
+      },
+      {
+        "name": "Jessica Miller",
+        "avatar": "/images/avatar-2.png",
+        "date": "2021-06-14",
+        "formattedDate": "14 June, 2021",
+        "quote": "Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia."
+      },
+      {
+        "name": "Emily Evans",
+        "avatar": "/images/avatar-3.png",
+        "date": "2021-06-14",
+        "formattedDate": "14 June, 2021",
+        "quote": "Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia."
+      },
+      {
+        "name": "Henry William",
+        "avatar": "/images/avatar-4.png",
+        "date": "2021-06-14",
+        "formattedDate": "14 June, 2021",
+        "quote": "Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia."
+      }
+    ],
+    "clients": {
+      "title": "Clients",
+      "logos": [
+        {
+          "link": "#",
+          "imageSrc": "/images/logo-1-color.png",
+          "alt": "client logo"
+        },
+        {
+          "link": "#",
+          "imageSrc": "/images/logo-2-color.png",
+          "alt": "client logo"
+        },
+        {
+          "link": "#",
+          "imageSrc": "/images/logo-3-color.png",
+          "alt": "client logo"
+        },
+        {
+          "link": "#",
+          "imageSrc": "/images/logo-4-color.png",
+          "alt": "client logo"
+        },
+        {
+          "link": "#",
+          "imageSrc": "/images/logo-5-color.png",
+          "alt": "client logo"
+        },
+        {
+          "link": "#",
+          "imageSrc": "/images/logo-6-color.png",
+          "alt": "client logo"
+        }
+      ]
+    },
+    "education": {
+      "icon": "book-outline",
+      "title": "Education",
+      "items": [
+        {
+          "title": "University school of the arts",
+          "duration": "2007 — 2008",
+          "description": "Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur."
+        },
+        {
+          "title": "New york academy of art",
+          "duration": "2006 — 2007",
+          "description": "Ratione voluptatem sequi nesciunt, facere quisquams facere menda ossimus, omnis voluptas assumenda est omnis."
+        },
+        {
+          "title": "High school of art and design",
+          "duration": "2002 — 2004",
+          "description": "Duis aute irure dolor in reprehenderit in voluptate, quila voluptas mag odit aut fugit, sed consequuntur magni dolores eos."
+        }
+      ]
+    },
+
+    "experience": {
+      "icon": "book-outline",
+      "title": "Experience",
+      "experience": [
+        {
+          "title": "Creative director",
+          "years": "2015 — Present",
+          "description": "Nemo enim ipsam voluptatem blanditiis praesentium voluptum delenit atque corrupti, quos dolores et qvuas molestias exceptur."
+        },
+        {
+          "title": "Art director",
+          "years": "2013 — 2015",
+          "description": "Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur."
+        },
+        {
+          "title": "Web designer",
+          "years": "2010 — 2013",
+          "description": "Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur."
+        }
+      ]
+    },
+    "skillset" : {
+      "skillsTitle": "My skills",
+      "skills": [
+        {
+          "title": "Web design",
+          "value": 80
+        },
+        {
+          "title": "Graphic design",
+          "value": 70
+        },
+        {
+          "title": "Branding",
+          "value": 90
+        },
+        {
+          "title": "WordPress",
+          "value": 50
+        }
+      ]
+    },
+    "projects" : {
+      "filters": [
+        {
+          "label": "All",
+          "filter": "",
+          "active": true
+        },
+        {
+          "label": "Web design",
+          "filter": "web design",
+          "active": false
+        },
+        {
+          "label": "Applications",
+          "filter": "applications",
+          "active": false
+        },
+        {
+          "label": "Web development",
+          "filter": "web development",
+          "active": false
+        }
+      ],
+      "selectedCategory": "Select category",
+      "categories": [
+        "All",
+        "Web design",
+        "Applications",
+        "Web development"
+      ],
+      "projects": [
+        {
+          "title": "Finance",
+          "category": "web development",
+          "image": "/images/project-1.jpg",
+          "active": true
+        },
+        {
+          "title": "Orizon",
+          "category": "web development",
+          "image": "/images/project-2.png",
+          "active": true
+        },
+        {
+          "title": "Fundo",
+          "category": "web design",
+          "image": "/images/project-3.jpg",
+          "active": true
+        },
+        {
+          "title": "Brawlhalla",
+          "category": "applications",
+          "image": "/images/project-4.png",
+          "active": true
+        },
+        {
+          "title": "DSM.",
+          "category": "web design",
+          "image": "/images/project-5.png",
+          "active": true
+        },
+        {
+          "title": "MetaSpark",
+          "category": "web design",
+          "image": "/images/project-6.png",
+          "active": true
+        }
+      ]
+    },
+
+    "blogPosts": [
+      {
+        "url": "#",
+        "imageUrl": "/images/blog-1.jpg",
+        "imageAltText": "Design conferences in 2022",
+        "category": "Design",
+        "date": "2022-02-23",
+        "formattedDate": "Fab 23, 2022",
+        "title": "Design conferences in 2022",
+        "excerpt": "Veritatis et quasi architecto beatae vitae dicta sunt, explicabo."
+      },
+      {
+        "url": "#",
+        "imageUrl": "/images/blog-2.jpg",
+        "imageAltText": "Best fonts every designer",
+        "category": "Design",
+        "date": "2022-02-23",
+        "formattedDate": "Fab 23, 2022",
+        "title": "Best fonts every designer",
+        "excerpt": "Sed ut perspiciatis, nam libero tempore, cum soluta nobis est eligendi."
+      },
+      {
+        "url": "#",
+        "imageUrl": "/images/blog-3.jpg",
+        "imageAltText": "Design digest #80",
+        "category": "Design",
+        "date": "2022-02-23",
+        "formattedDate": "Fab 23, 2022",
+        "title": "Design digest #80",
+        "excerpt": "Excepteur sint occaecat cupidatat no proident, quis nostrum exercitationem ullam corporis suscipit."
+      },
+      {
+        "url": "#",
+        "imageUrl": "/images/blog-4.jpg",
+        "imageAltText": "UI interactions of the week",
+        "category": "Design",
+        "date": "2022-02-23",
+        "formattedDate": "Fab 23, 2022",
+        "title": "UI interactions of the week",
+        "excerpt": "Enim ad minim veniam, consectetur adipiscing elit, quis nostrud exercitation ullamco laboris nisi."
+      },
+      {
+        "url": "#",
+        "imageUrl": "/images/blog-5.jpg",
+        "imageAltText": "The forgotten art of spacing",
+        "category": "Design",
+        "date": "2022-02-23",
+        "formattedDate": "Fab 23, 2022",
+        "title": "The forgotten art of spacing",
+        "excerpt": "Maxime placeat, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      }
+    ],
+
+    "contact": {
+      "title": "Contact",
+      "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d113911.07561639216!2d80.86011140698312!3d26.848821287357243!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x399bfd991f32b16b%3A0x93ccba8909978be7!2sLucknow%2C%20Uttar%20Pradesh!5e0!3m2!1sen!2sin!4v1681073716472!5m2!1sen!2sin",
+      "formTitle": "Contact Form",
+      "fullNamePlaceholder": "Full name",
+      "emailPlaceholder": "Email address",
+      "messagePlaceholder": "Your Message",
+      "buttonText": "Send Message"
+    }
+  }
